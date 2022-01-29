@@ -1,2 +1,2 @@
 # devops-training-jan
-#This repo created for devops training.
+##This repo is created for devops training.
